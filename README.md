@@ -1,6 +1,6 @@
 👋 Hi, I’m @eynalliomer
 👀 I’m passionate about reading, researching, planning, and fitness.
-🌱 Currently learning Java, SQL, and improving my English skills.
+🌱 Currently learning Java, SQL, Pyhton, C# and improving my English skills.
 💼 I’m looking to collaborate with like-minded people. I’m open to working with students, professionals, or business owners on exciting projects.
 📫 Feel free to reach me via direct messages.
 😄 Pronouns: He/Him
